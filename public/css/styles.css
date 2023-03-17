@@ -1,0 +1,29 @@
+.brand-logo {
+    height: 100%;
+}
+
+.user-image-size {
+    height: 100%;
+}
+
+.nav-inner-wrapper {
+    width: 95%;
+    margin: 0 auto;
+}
+
+
+.main-body {
+    background-color: #4db6ac;
+    color: white;
+    height: calc(100vh - 64px);
+
+}
+
+.livedemo-image-container .livedemo-image {
+    height: 30vh;
+    margin: auto;
+}
+
+.main-body {
+    overflow: auto;
+}
